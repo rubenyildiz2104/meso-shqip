@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="22" fill="#E41E26"/>
+  <!-- Stylized Eagle silhouette / wings -->
+  <path d="M50 25 C45 28 36 28 30 36 C24 44 26 56 34 64 C38 68 45 68 48 74 C49 76 50 78 50 82 C50 78 51 76 52 74 C55 68 62 68 66 64 C74 56 76 44 70 36 C64 28 55 28 50 25 Z" fill="#111827"/>
+  <circle cx="43" cy="32" r="3" fill="#111827"/>
+  <circle cx="57" cy="32" r="3" fill="#111827"/>
+  <path d="M40 32 L36 28 M60 32 L64 28" stroke="#111827" stroke-width="2" stroke-linecap="round"/>
+  <path d="M30 45 C35 52 40 55 50 55 C60 55 65 52 70 45" stroke="#E41E26" stroke-width="2" fill="none"/>
+</svg>

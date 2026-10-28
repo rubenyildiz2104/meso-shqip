@@ -1,0 +1,1246 @@
+{
+  "title": "152 Essential Sentences for Conversational Albanian",
+  "edition": "French Edition - Gheg & Tosk Dialects",
+  "totalCount": 152,
+  "dialectInfo": {
+    "shkumbinRiver": "Dividing line in central Albania separating Gheg (north) and Tosk (south)",
+    "gheg": {
+      "name": "Gheg (Gegnisht)",
+      "regions": "Northern & Central Albania, Kosovo, North Macedonia, Montenegro",
+      "features": [
+        "Infinitive formed with 'me' + participle (e.g., 'me msu', 'me shku', 'me fol')",
+        "Nasal vowels and preservation of older n-forms (non-rhotacized)",
+        "Frequent particle 'A' at start of questions",
+        "Common interrogative 'Qysh' (how), 'Çka' (what), 'Hala' (still/yet)"
+      ]
+    },
+    "tosk": {
+      "name": "Tosk (Toskërisht)",
+      "regions": "Southern Albania, Arvanites in Greece, Arbëresh in Italy",
+      "features": [
+        "Forms the foundation of Standard Modern Albanian (Gjuha Letrare)",
+        "Subjunctive with 'të' replaces the Gheg 'me' infinitive ('të mësoj', 'të flas')",
+        "Rhotacism (historical 'n' became 'r' in many word positions)",
+        "Standard interrogatives 'Si' (how), 'Çfarë' (what), 'Ende' (still/yet)"
+      ]
+    }
+  },
+  "phrases": [
+    {
+      "id": 1,
+      "french": "Accueillir!",
+      "gheg": "Mirë se vjen!",
+      "tosk": "Mirë se vini!",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Gheg utilise la forme singulière (vjen), Tosk utilise la forme plurielle/politesse (vini)."
+    },
+    {
+      "id": 2,
+      "french": "Bonjour comment allez-vous?",
+      "gheg": "Përshëndetje! Qysh je?",
+      "tosk": "Përshëndetje! Si je?",
+      "category": "Premiers Pas & Salutations",
+      "notes": "'Qysh' est typique du gheg pour 'comment', tandis que le tosk utilise 'si'."
+    },
+    {
+      "id": 3,
+      "french": "Mon nom est ________.",
+      "gheg": "Emri jem është ________.",
+      "tosk": "Emri im është ________.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Possessif 'mon': 'jem' en gheg vs 'im' en tosk standard."
+    },
+    {
+      "id": 4,
+      "french": "Quel est ton nom?",
+      "gheg": "Qysh e ki emrin?",
+      "tosk": "Si quhesh?",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Gheg: 'Qysh e ki emrin?' (Comment as-tu le nom ?). Tosk: 'Si quhesh?' (Comment t'appelles-tu ?)."
+    },
+    {
+      "id": 5,
+      "french": "Ravi de vous rencontrer.",
+      "gheg": "Mvjen mirë qe unjofutum.",
+      "tosk": "Gëzohem që të njoh.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Gheg 'unjofutum' (qu'on a fait connaissance) vs Tosk 'Gëzohem që të njoh'."
+    },
+    {
+      "id": 6,
+      "french": "Combien de langues parlez-vous ?",
+      "gheg": "Sa gjuhë flet? / Sa gjuhë i fol?",
+      "tosk": "Sa gjuhë flet?",
+      "category": "Premiers Pas & Salutations",
+      "notes": "En gheg 'fol' est souvent employé pour le verbe parler."
+    },
+    {
+      "id": 7,
+      "french": "Je parle douze langues.",
+      "gheg": "Unë i foli dymbëdhjetë gjuhë.",
+      "tosk": "Unë flas dymbëdhjetë gjuhë.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Verbe parler: 'foli' en gheg vs 'flas' en tosk standard."
+    },
+    {
+      "id": 8,
+      "french": "Apprendre les langues est facile.",
+      "gheg": "Mësimi i gjuhëve është i lehtë.",
+      "tosk": "Mësimi i gjuhëve është i lehtë.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 9,
+      "french": "Avec ce texte, vous pouvez apprendre plus de cent phrases en une semaine.",
+      "gheg": "Me qit tekst, munesh me msu ma shumë se njëqind fjal mrena një jave.",
+      "tosk": "Me këtë tekst, mund të mësoni më shumë se njëqind fjali brenda një jave.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Gheg utilise 'qit' (ce), 'munesh me msu' (infinitif avec me), 'mrena' (dans). Tosk utilise 'këtë', 'mund të mësoni' (subjonctif avec të), 'brenda'."
+    },
+    {
+      "id": 10,
+      "french": "Cela suffit pour avoir des conversations simples.",
+      "gheg": "Kjo është boll / e mjaftushme për me pas biseda të thjeshta.",
+      "tosk": "Kjo është e mjaftueshme për të zhvilluar biseda të thjeshta.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "'Boll' (assez / suffisant) est très courant en gheg. Gheg 'për me pas' vs Tosk 'për të zhvilluar'."
+    },
+    {
+      "id": 11,
+      "french": "Vous devez relire les phrases encore et encore.",
+      "gheg": "Duhesh me i lexu fjalitë vazhdimisht.",
+      "tosk": "Duhet t’i lexosh fjalitë vazhdimisht.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Structure du verbe devoir: Gheg 'Duhesh me i lexu' vs Tosk 'Duhet t’i lexosh'."
+    },
+    {
+      "id": 12,
+      "french": "C'est la meilleure façon d'apprendre la prononciation.",
+      "gheg": "Kjo është mënyra ma e mirë për me msu shqiptimin.",
+      "tosk": "Kjo është mënyra më e mirë për të mësuar shqiptimin.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Comparatif: Gheg 'ma e mirë' vs Tosk 'më e mirë'. Gheg 'me msu' vs Tosk 'të mësuar'."
+    },
+    {
+      "id": 13,
+      "french": "Enfin, vous devez écrire et traduire les phrases.",
+      "gheg": "N'fund (Në fund), duhesh me i shkrujt edhe me i përkthy fjalitë.",
+      "tosk": "Së fundmi, duhet të shkruani dhe përktheni fjalitë.",
+      "category": "Premiers Pas & Salutations",
+      "notes": "Gheg 'shkrujt / përkthy' avec 'me' vs Tosk 'shkruani dhe përktheni'."
+    },
+    {
+      "id": 14,
+      "french": "Apprenons autant de phrases que possible !",
+      "gheg": "Hajde me msu sa ma shumë fjal që munemi!",
+      "tosk": "Le të mësojmë sa më shumë fjali të jetë e mundur!",
+      "category": "Premiers Pas & Salutations",
+      "notes": "'Hajde' exprime l'encouragement/l'invitation en gheg."
+    },
+    {
+      "id": 15,
+      "french": "D'où venez-vous?",
+      "gheg": "Prej kahit je?",
+      "tosk": "Nga je?",
+      "category": "Origine & Logement",
+      "notes": "Gheg 'Prej kahit je?' vs Tosk 'Nga je?'."
+    },
+    {
+      "id": 16,
+      "french": "Je viens de ___________.",
+      "gheg": "Unë jom prej ___________.",
+      "tosk": "Unë jam nga ____________.",
+      "category": "Origine & Logement",
+      "notes": "Verbe être + préposition: Gheg 'jom prej' vs Tosk 'jam nga'."
+    },
+    {
+      "id": 17,
+      "french": "Où habitez-vous actuellement ?",
+      "gheg": "Ku jeton qitash (tash)?",
+      "tosk": "Ku jeton tani?",
+      "category": "Origine & Logement",
+      "notes": "'Maintenant': Gheg 'qitash' ou 'tash' vs Tosk 'tani'."
+    },
+    {
+      "id": 18,
+      "french": "J'habite à ___________.",
+      "gheg": "Unë jetoj në ___________.",
+      "tosk": "Unë jetoj në ____________.",
+      "category": "Origine & Logement",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 19,
+      "french": "Je ne connais pas cette ville.",
+      "gheg": "Unë nuk e di qatë qytet.",
+      "tosk": "Nuk e njoh atë qytet.",
+      "category": "Origine & Logement",
+      "notes": "Gheg utilise 'qatë' pour 'cette' et 'di', Tosk utilise 'atë' et 'njoh'."
+    },
+    {
+      "id": 20,
+      "french": "À quoi ressemble la ville ?",
+      "gheg": "Qysh është qyteti?",
+      "tosk": "Si është qyteti?",
+      "category": "Origine & Logement",
+      "notes": "Gheg 'Qysh' vs Tosk 'Si'."
+    },
+    {
+      "id": 21,
+      "french": "C'est une petite ville, mais elle est magnifique.",
+      "gheg": "Është një qytet i vogël ama i bukur.",
+      "tosk": "Është një qytet i vogël por i bukur.",
+      "category": "Origine & Logement",
+      "notes": "Conjonction 'mais': Gheg 'ama' vs Tosk 'por'."
+    },
+    {
+      "id": 22,
+      "french": "Elle possède trois plages.",
+      "gheg": "I ka tri pllazha.",
+      "tosk": "Ka tre plazhe.",
+      "category": "Origine & Logement",
+      "notes": "Gheg 'pllazha' (féminin pluriel avec ll) vs Tosk 'plazhe'."
+    },
+    {
+      "id": 23,
+      "french": "J'habite à côté d'une des plages.",
+      "gheg": "Unë jetoj afër një prej plazhëve.",
+      "tosk": "Unë jetoj pranë njërës prej plazheve.",
+      "category": "Origine & Logement",
+      "notes": "Gheg 'afër' vs Tosk 'pranë'."
+    },
+    {
+      "id": 24,
+      "french": "Est-ce un bon endroit pour surfer ?",
+      "gheg": "A është ven i mirë për me surf?",
+      "tosk": "A është një vend i mirë për surf?",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'ven' (chute du 'd' final en gheg) vs Tosk 'vend'."
+    },
+    {
+      "id": 25,
+      "french": "Une seule des trois plages est propice au surf.",
+      "gheg": "Veq një prej tre pllazheve është i mirë për surfim.",
+      "tosk": "Vetëm një nga tre plazhet është e mirë për surfim.",
+      "category": "Voyages & Déplacements",
+      "notes": "'Seulement': Gheg 'veq' vs Tosk 'vetëm'."
+    },
+    {
+      "id": 26,
+      "french": "Aimes-tu le surf ?",
+      "gheg": "A të pëlqen (t'pelqen) surfimi?",
+      "tosk": "Të pëlqen surfimi?",
+      "category": "Voyages & Déplacements",
+      "notes": "La particule interrogative 'A' est très fréquente en gheg."
+    },
+    {
+      "id": 27,
+      "french": "Aimez-vous voyager ?",
+      "gheg": "A të pëlqen me udhëtu?",
+      "tosk": "Të pëlqen të udhëtosh?",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'me udhëtu' (infinitif avec me) vs Tosk 'të udhëtosh' (subjonctif)."
+    },
+    {
+      "id": 28,
+      "french": "J'aime voyager.",
+      "gheg": "Mpëlqen më udhëtu.",
+      "tosk": "Më pëlqen të udhëtoj.",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'më udhëtu' vs Tosk 'të udhëtoj'."
+    },
+    {
+      "id": 29,
+      "french": "Vous voyagez beaucoup ?",
+      "gheg": "A udhëton shumë?",
+      "tosk": "A udhëton shumë?",
+      "category": "Voyages & Déplacements",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 30,
+      "french": "Je voyage beaucoup.",
+      "gheg": "Unë udhëtoj shumë.",
+      "tosk": "Unë udhëtoj shumë.",
+      "category": "Voyages & Déplacements",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 31,
+      "french": "Vous êtes ici en vacances ?",
+      "gheg": "A je këtu për pushime?",
+      "tosk": "A je këtu me pushime?",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'për pushime' vs Tosk 'me pushime'."
+    },
+    {
+      "id": 32,
+      "french": "Non, je suis ici en voyage d'affaires. Et vous ?",
+      "gheg": "Jo, jom këtu për një udhëtim pune. E ti?",
+      "tosk": "Jo, jam këtu për një udhëtim pune. Po ti?",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'jom ... E ti?' vs Tosk 'jam ... Po ti?'."
+    },
+    {
+      "id": 33,
+      "french": "J'habite ici. Je suis d'ici.",
+      "gheg": "Unë jetoj këtu. Unë jom prej këtuhit.",
+      "tosk": "Unë jetoj këtu. Unë jam nga këtu.",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'jom prej këtuhit' vs Tosk 'jam nga këtu'."
+    },
+    {
+      "id": 34,
+      "french": "Vous voyagez beaucoup ?",
+      "gheg": "A udhëton shumë?",
+      "tosk": "A udhëton shumë?",
+      "category": "Voyages & Déplacements",
+      "notes": "Répétition de consolidation."
+    },
+    {
+      "id": 35,
+      "french": "Oui, je voyage beaucoup.",
+      "gheg": "Po, udhëtoj shumë.",
+      "tosk": "Po, udhëtoj shumë.",
+      "category": "Voyages & Déplacements",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 36,
+      "french": "Parlez-moi davantage de vous.",
+      "gheg": "Tregom ma shumë për veten tonde.",
+      "tosk": "Më trego më shumë për veten tënde.",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'Tregom ma shumë ... tonde' vs Tosk 'Më trego më shumë ... tënde'."
+    },
+    {
+      "id": 37,
+      "french": "Alors, que faites-vous ici ?",
+      "gheg": "E pra, çka po bon këtu?",
+      "tosk": "Pra, çfarë po bën këtu?",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'çka po bon' vs Tosk 'çfarë po bën'."
+    },
+    {
+      "id": 38,
+      "french": "Vraiment ? C'est intéressant !",
+      "gheg": "Përnime? Kjo është interesant!",
+      "tosk": "Vërtet? Kjo është interesante!",
+      "category": "Voyages & Déplacements",
+      "notes": "'Vraiment': Gheg 'Përnime?' vs Tosk 'Vërtet?'."
+    },
+    {
+      "id": 39,
+      "french": "Combien de temps restez-vous ici ?",
+      "gheg": "Sa kohë ki me nejt këtu?",
+      "tosk": "Sa kohë do të qëndroni këtu?",
+      "category": "Voyages & Déplacements",
+      "notes": "Futur: Gheg 'ki me nejt' (avoir + me + part.) vs Tosk 'do të qëndroni' (do të + subjonctif)."
+    },
+    {
+      "id": 40,
+      "french": "Je resterai ici trois jours de plus.",
+      "gheg": "Kom me nejt këtu edhe tri ditë.",
+      "tosk": "Do të rri këtu edhe tre ditë.",
+      "category": "Voyages & Déplacements",
+      "notes": "Futur en Gheg 'Kom me nejt' (nejt = rester) vs Tosk 'Do të rri'."
+    },
+    {
+      "id": 41,
+      "french": "Je pars lundi.",
+      "gheg": "Kom me u nis t'hanën.",
+      "tosk": "Do të nisem të hënën.",
+      "category": "Voyages & Déplacements",
+      "notes": "'Lundi': Gheg 't'hanën' (e hânë) vs Tosk 'të hënën'."
+    },
+    {
+      "id": 42,
+      "french": "Où séjournes-tu?",
+      "gheg": "Ku je tu nejt?",
+      "tosk": "Ku po qëndroni?",
+      "category": "Voyages & Déplacements",
+      "notes": "Aspect continu: Gheg 'je tu nejt' vs Tosk 'po qëndroni'."
+    },
+    {
+      "id": 43,
+      "french": "Je loge dans un hôtel, à 5 minutes d'ici.",
+      "gheg": "Jom tu nejt me një hotel, pesë minuta larg prej këtuhit.",
+      "tosk": "Po qëndroj në një hotel, 5 minuta larg nga këtu.",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'Jom tu nejt me një hotel ... prej këtuhit' vs Tosk 'Po qëndroj në një hotel ... nga këtu'."
+    },
+    {
+      "id": 44,
+      "french": "Mon appartement n'est pas loin d'ici.",
+      "gheg": "Apartamenti jem nuk është shumë larg prej këtuhit.",
+      "tosk": "Apartamenti im nuk është shumë larg nga këtu.",
+      "category": "Voyages & Déplacements",
+      "notes": "Gheg 'jem ... prej këtuhit' vs Tosk 'im ... nga këtu'."
+    },
+    {
+      "id": 45,
+      "french": "Cette table est-elle libre ?",
+      "gheg": "A është e lirë qikjo tavolinë?",
+      "tosk": "A është e lirë kjo tavolinë?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Démonstratif: Gheg 'qikjo' vs Tosk 'kjo'."
+    },
+    {
+      "id": 46,
+      "french": "Avez-vous une table pour deux personnes ?",
+      "gheg": "A keni një tavolinë për dy persona?",
+      "tosk": "A keni një tavolinë për dy persona?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 47,
+      "french": "Puis-je voir le menu ?",
+      "gheg": "A muj me pa menunë?",
+      "tosk": "A mund ta shoh menunë?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Pouvoir + voir: Gheg 'A muj me pa' vs Tosk 'A mund ta shoh'."
+    },
+    {
+      "id": 48,
+      "french": "Je voudrais commander, s'il vous plaît.",
+      "gheg": "Kisha pas qef me porosit, tlutem.",
+      "tosk": "Do të doja të porosisja, ju lutem.",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'Kisha pas qef me porosit, tlutem' (litt. j'aurais eu envie de commander) vs Tosk 'Do të doja të porosisja, ju lutem'."
+    },
+    {
+      "id": 49,
+      "french": "Voulez-vous quelque chose à boire ?",
+      "gheg": "A don me pi diçka?",
+      "tosk": "A do diçka për të pirë?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'A don me pi' vs Tosk 'A do ... për të pirë'."
+    },
+    {
+      "id": 50,
+      "french": "Puis-je avoir un verre d'eau, s'il vous plaît ?",
+      "gheg": "A bon një gotë me ujë, tlutem?",
+      "tosk": "A mund të kem një gotë ujë, ju lutem?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg formule familière 'A bon...' vs Tosk 'A mund të kem...'."
+    },
+    {
+      "id": 51,
+      "french": "Non, merci. Je ne bois pas.",
+      "gheg": "Jo, faleminderit. Unë nuk pi.",
+      "tosk": "Jo, faleminderit. Unë nuk pi.",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 52,
+      "french": "Puis-je payer par carte ?",
+      "gheg": "A muj me pagu me kartel?",
+      "tosk": "A mund të paguaj me kartë?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'A muj me pagu me kartel' vs Tosk 'A mund të paguaj me kartë'."
+    },
+    {
+      "id": 53,
+      "french": "Où sont les toilettes ?",
+      "gheg": "Ku është banjo?",
+      "tosk": "Ku është tualeti?",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg 'banjo' vs Tosk 'tualeti'."
+    },
+    {
+      "id": 54,
+      "french": "Avez-vous déjà goûté la nourriture ici ?",
+      "gheg": "A e keni provu ushqimin këtu?",
+      "tosk": "A e keni provuar ushqimin këtu?",
+      "category": "Conversations & Sorties",
+      "notes": "Participe passé: Gheg 'provu' (chute du -ar) vs Tosk 'provuar'."
+    },
+    {
+      "id": 55,
+      "french": "Qu'en pensez-vous ?",
+      "gheg": "Çka menon për këta?",
+      "tosk": "Çfarë mendoni për këtë?",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg 'Çka menon për këta' vs Tosk 'Çfarë mendoni për këtë'."
+    },
+    {
+      "id": 56,
+      "french": "C'est intéressant.",
+      "gheg": "Është interesant.",
+      "tosk": "Është interesante.",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg utilise souvent la terminaison masculine invariée 'interesant', Tosk accorde 'interesante'."
+    },
+    {
+      "id": 57,
+      "french": "Avez-vous des projets pour le week-end ?",
+      "gheg": "A keni plane për vikend?",
+      "tosk": "A keni plane për fundjavën?",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg emprunte 'vikend', Tosk emploie le terme standard 'fundjavën'."
+    },
+    {
+      "id": 58,
+      "french": "Ce fut un plaisir de vous parler.",
+      "gheg": "Mvjen mirë që na ra me fol.",
+      "tosk": "Ka qenë kënaqësi të flas me ty.",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg expression idiomatique 'na ra me fol' (il nous est arrivé de parler) vs Tosk 'Ka qenë kënaqësi'."
+    },
+    {
+      "id": 59,
+      "french": "Êtes-vous là demain ?",
+      "gheg": "A je këtu nesër?",
+      "tosk": "Je këtu nesër?",
+      "category": "Conversations & Sorties",
+      "notes": "Particule 'A' interrogative en gheg."
+    },
+    {
+      "id": 60,
+      "french": "Quel est votre numéro de téléphone ?",
+      "gheg": "Cili është numri jot i telefonit?",
+      "tosk": "Cili është numri juaj i telefonit?",
+      "category": "Conversations & Sorties",
+      "notes": "Possessif: Gheg 'jot' (informel) vs Tosk 'juaj' (formel)."
+    },
+    {
+      "id": 61,
+      "french": "Rencontrons-nous demain.",
+      "gheg": "Hajde takohemi nesër.",
+      "tosk": "Le të takohemi nesër.",
+      "category": "Conversations & Sorties",
+      "notes": "Exhortation: Gheg 'Hajde...' vs Tosk 'Le të...'."
+    },
+    {
+      "id": 62,
+      "french": "À plus tard ! Salut !",
+      "gheg": "Shihemi mavonë! Diten e mirë!",
+      "tosk": "Shihemi më vonë! Mirupafshim!",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg 'mavonë' vs Tosk 'më vonë'. Gheg 'Diten e mirë' (bonne journée) vs Tosk 'Mirupafshim' (au revoir)."
+    },
+    {
+      "id": 63,
+      "french": "Avez-vous besoin d'aide ?",
+      "gheg": "A keni nevojë për ndihmë?",
+      "tosk": "A keni nevojë për ndihmë?",
+      "category": "Conversations & Sorties",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 64,
+      "french": "Pouvez-vous m'aider?",
+      "gheg": "A munesh me mnimu?",
+      "tosk": "A mund të më ndihmoni?",
+      "category": "Conversations & Sorties",
+      "notes": "Gheg 'munesh me mnimu' (forme contractée) vs Tosk 'mund të më ndihmoni'."
+    },
+    {
+      "id": 65,
+      "french": "Parlez-vous russe ?",
+      "gheg": "A fol rusisht?",
+      "tosk": "A flet rusisht?",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'fol' vs Tosk 'flet'."
+    },
+    {
+      "id": 66,
+      "french": "Je parle un peu arabe.",
+      "gheg": "Unë muj me fol pak arabisht.",
+      "tosk": "Unë mund të flas pak arabisht.",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'muj me fol' vs Tosk 'mund të flas'."
+    },
+    {
+      "id": 67,
+      "french": "J'apprends l'espagnol en ce moment.",
+      "gheg": "Po msoj spanjollisht tash.",
+      "tosk": "Po mësoj spanjisht tani.",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'spanjollisht tash' vs Tosk 'spanjisht tani'."
+    },
+    {
+      "id": 68,
+      "french": "Êtes-vous britannique ?",
+      "gheg": "A je anglez?",
+      "tosk": "A je britanik?",
+      "category": "Langues & Identité",
+      "notes": "Gheg utilise souvent 'anglez', Tosk 'britanik'."
+    },
+    {
+      "id": 69,
+      "french": "Non, je ne suis pas allemand. Et vous ?",
+      "gheg": "Jo, unë nuk jam gjerman. E ti?",
+      "tosk": "Jo, unë nuk jam gjerman. Po ti?",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'E ti?' vs Tosk 'Po ti?'."
+    },
+    {
+      "id": 70,
+      "french": "Oui, je suis américain.",
+      "gheg": "Po, unë jam amerikan.",
+      "tosk": "Po, unë jam amerikan.",
+      "category": "Langues & Identité",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 71,
+      "french": "Pourquoi apprenez-vous le français ?",
+      "gheg": "Pse po mëson frëngjisht?",
+      "tosk": "Pse po mëson frëngjisht?",
+      "category": "Langues & Identité",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 72,
+      "french": "J'apprends le portugais parce que je veux déménager au Brésil.",
+      "gheg": "Po mësoj portugalisht se po du me shku me jetu n'Brazil.",
+      "tosk": "Po mësoj portugalisht sepse dua të shpërngulem në Brazil.",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'se po du me shku me jetu' vs Tosk 'sepse dua të shpërngulem'."
+    },
+    {
+      "id": 73,
+      "french": "Je veux apprendre l'italien parce que j'ai des amis italiens.",
+      "gheg": "Po du me msu italisht se kom shoqni italianë.",
+      "tosk": "Dua të mësoj italisht sepse kam miq italianë.",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'Po du me msu ... kom shoqni' vs Tosk 'Dua të mësoj ... kam miq'."
+    },
+    {
+      "id": 74,
+      "french": "J'ai appris l'albanais parce que j'ai une petite amie albanaise originaire du Kosovo.",
+      "gheg": "Mësova shqip se e kom tdashurën shqiptare prej kosovës.",
+      "tosk": "Mësova shqip sepse kam një të dashur shqiptare nga Kosova.",
+      "category": "Langues & Identité",
+      "notes": "Gheg 'e kom tdashurën ... prej kosovës' vs Tosk 'kam një të dashur ... nga Kosova'."
+    },
+    {
+      "id": 75,
+      "french": "C'est une langue intéressante.",
+      "gheg": "Është një gjuhë interesant.",
+      "tosk": "Është një gjuhë interesante.",
+      "category": "Langues & Identité",
+      "notes": "Accord de l'adjectif: Gheg 'interesant' vs Tosk 'interesante'."
+    },
+    {
+      "id": 76,
+      "french": "Que faites-vous ici?",
+      "gheg": "Çka po bon këtu?",
+      "tosk": "Çfarë po bën këtu?",
+      "category": "Vie Quotidienne & Rencontres",
+      "notes": "Gheg 'Çka po bon' vs Tosk 'Çfarë po bën'."
+    },
+    {
+      "id": 77,
+      "french": "J'attends un ami.",
+      "gheg": "Po pres një shok.",
+      "tosk": "Po pres një mik.",
+      "category": "Vie Quotidienne & Rencontres",
+      "notes": "'Ami': Gheg 'shok' vs Tosk 'mik'."
+    },
+    {
+      "id": 78,
+      "french": "Avez-vous une cigarette?",
+      "gheg": "A ki një cigare?",
+      "tosk": "A ke një cigare?",
+      "category": "Vie Quotidienne & Rencontres",
+      "notes": "Verbe avoir: Gheg 'ki' vs Tosk 'ke'."
+    },
+    {
+      "id": 79,
+      "french": "Désolé, mon pote. Je ne fume pas.",
+      "gheg": "Më fal vlla. S'pi duhan.",
+      "tosk": "Më fal shoku. Unë nuk pi duhan.",
+      "category": "Vie Quotidienne & Rencontres",
+      "notes": "Terme affectueux: Gheg 'vlla' (mon frère) vs Tosk 'shoku' (l'ami)."
+    },
+    {
+      "id": 80,
+      "french": "Vous fumez ? Vous avez envie d'une cigarette ?",
+      "gheg": "A pi duhan? A don një cigare?",
+      "tosk": "A pi duhan? A do një cigare?",
+      "category": "Vie Quotidienne & Rencontres",
+      "notes": "Gheg 'A don' vs Tosk 'A do'."
+    },
+    {
+      "id": 81,
+      "french": "Non, merci.",
+      "gheg": "Jo, faleminderit.",
+      "tosk": "Jo, faleminderit.",
+      "category": "Vie Quotidienne & Rencontres",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 82,
+      "french": "Voulez-vous quelque chose à boire ?",
+      "gheg": "A don diçka për me pi?",
+      "tosk": "A do diçka për të pirë?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'për me pi' vs Tosk 'për të pirë'."
+    },
+    {
+      "id": 83,
+      "french": "Tu veux une bière ?",
+      "gheg": "A don një birrë?",
+      "tosk": "A do një birrë?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'don' vs Tosk 'do'."
+    },
+    {
+      "id": 84,
+      "french": "Je veux une bière, merci.",
+      "gheg": "Po a bon një birrë, faleminderit.",
+      "tosk": "Dua një birrë, faleminderit.",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'Po a bon...' (Est-ce que ça va pour une bière) vs Tosk 'Dua...'."
+    },
+    {
+      "id": 85,
+      "french": "Et une autre pour mon ami.",
+      "gheg": "Edhe një tjetër për shokun tem.",
+      "tosk": "Dhe një tjetër për mikun tim.",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'Edhe ... shokun tem' vs Tosk 'Dhe ... mikun tim'."
+    },
+    {
+      "id": 86,
+      "french": "Deux bières, s'il vous plaît !",
+      "gheg": "Dy birra tlutem!",
+      "tosk": "Dy birra ju lutem!",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg contracté 'tlutem' vs Tosk 'ju lutem'."
+    },
+    {
+      "id": 87,
+      "french": "Combien ça coûte?",
+      "gheg": "Sa kushton?",
+      "tosk": "Sa kushton?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 88,
+      "french": "Vous voulez du raki ?",
+      "gheg": "A don raki?",
+      "tosk": "Do raki?",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Gheg 'A don' vs Tosk 'Do'."
+    },
+    {
+      "id": 89,
+      "french": "Non merci, je ne bois pas de tequila.",
+      "gheg": "Jo faleminderit, unë nuk pi tekila.",
+      "tosk": "Jo faleminderit, unë nuk pi tekila.",
+      "category": "Au Restaurant & Commandes",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 90,
+      "french": "Que fais-tu dans la vie?",
+      "gheg": "Me çka merresh? / Qka punon?",
+      "tosk": "Me çfarë merresh për të jetuar?",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'Me çka merresh? / Qka punon?' vs Tosk 'Me çfarë merresh për të jetuar?'."
+    },
+    {
+      "id": 91,
+      "french": "J'ai ma propre entreprise.",
+      "gheg": "Unë kom biznisin tem.",
+      "tosk": "Unë kam biznesin tim.",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'kom ... tem' vs Tosk 'kam ... tim'."
+    },
+    {
+      "id": 92,
+      "french": "Aidez-vous les gens à apprendre les langues ?",
+      "gheg": "A i nimon njerëzit me msu gjuhë tëhuja?",
+      "tosk": "A i ndihmoni njerëzit të mësojnë gjuhë të huaja?",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'nimon' (ndihmon) et 'me msu gjuhë tëhuja' vs Tosk 'ndihmoni ... të mësojnë gjuhë të huaja'."
+    },
+    {
+      "id": 93,
+      "french": "Exactement, j'aide les gens à apprendre plus vite, sans perdre de temps.",
+      "gheg": "Po, unë i nimoj njerëzit me msu mashpejt, pa hup kohë.",
+      "tosk": "Pikërisht, unë i ndihmoj njerëzit të mësojnë më shpejt, pa humbur kohë.",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'nimoj ... mashpejt, pa hup kohë' vs Tosk 'ndihmoj ... më shpejt, pa humbur kohë'."
+    },
+    {
+      "id": 94,
+      "french": "Vous travaillez beaucoup ?",
+      "gheg": "A punon shumë?",
+      "tosk": "A punon shumë?",
+      "category": "Travail & Carrière",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 95,
+      "french": "Je travaille beaucoup.",
+      "gheg": "Unë punoj shumë.",
+      "tosk": "Unë punoj shumë.",
+      "category": "Travail & Carrière",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 96,
+      "french": "J'aime mon travail.",
+      "gheg": "M'pëlqen puna jem.",
+      "tosk": "Më pëlqen puna ime.",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'jem' vs Tosk 'ime'."
+    },
+    {
+      "id": 97,
+      "french": "Travailler beaucoup ne me dérange pas.",
+      "gheg": "Nuk mpengon me punu shumë.",
+      "tosk": "Nuk më shqetëson të punoj shumë.",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'mpengon me punu' vs Tosk 'më shqetëson të punoj'."
+    },
+    {
+      "id": 98,
+      "french": "Depuis combien de temps occupez-vous ce poste ?",
+      "gheg": "Sa kohë ki qe e bon qit punë?",
+      "tosk": "Sa kohë ke që e bën këtë punë?",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'ki qe e bon qit punë' vs Tosk 'ke që e bën këtë punë'."
+    },
+    {
+      "id": 99,
+      "french": "Que faisiez-vous avant ?",
+      "gheg": "Çka ki bo para ksaj pune?",
+      "tosk": "Çfarë bëre më parë?",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'Çka ki bo para ksaj pune' vs Tosk 'Çfarë bëre më parë'."
+    },
+    {
+      "id": 100,
+      "french": "Quels autres emplois avez-vous occupés ?",
+      "gheg": "Çfarë puna tjera ki pas?",
+      "tosk": "Çfarë pune të tjera keni pasur?",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'ki pas' vs Tosk 'keni pasur'."
+    },
+    {
+      "id": 101,
+      "french": "Avant, je travaillais comme voiturier à Cleveland. Je garais les voitures des clients dans les hôtels et les centres commerciaux.",
+      "gheg": "Kom punu si valet në Cleveland. Kom parku kerrit e klientave në hotele edhe qendra tregtare.",
+      "tosk": "Kam punuar si shërbëtor në Cleveland. Parkoja makinat e klientëve në hotele dhe qendra tregtare.",
+      "category": "Travail & Carrière",
+      "notes": "Gheg 'Kom punu ... Kom parku kerrit e klientave' vs Tosk 'Kam punuar ... Parkoja makinat e klientëve'."
+    },
+    {
+      "id": 102,
+      "french": "Avez-vous déjà été en Roumanie ?",
+      "gheg": "A je kon najeherë n'Rumani?",
+      "tosk": "A keni qenë ndonjëherë në Rumani?",
+      "category": "Études & Expériences",
+      "notes": "Participe 'été': Gheg 'kon' vs Tosk 'qenë'. Gheg 'najeherë' vs Tosk 'ndonjëherë'."
+    },
+    {
+      "id": 103,
+      "french": "Je suis allée en France à de nombreuses reprises.",
+      "gheg": "Kom qenë në Francë shumë herë.",
+      "tosk": "Kam qenë në Francë shumë herë.",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'Kom' vs Tosk 'Kam'."
+    },
+    {
+      "id": 104,
+      "french": "Je ne suis jamais allé en Chine.",
+      "gheg": "Unë nuk jom kon kurrë n'Kinë.",
+      "tosk": "Unë nuk kam qenë kurrë në Kinë.",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'jom kon ... n'Kinë' vs Tosk 'kam qenë ... në Kinë'."
+    },
+    {
+      "id": 105,
+      "french": "Je vais souvent au Portugal.",
+      "gheg": "Unë shkoj shpesh n'Portugali.",
+      "tosk": "Unë shkoj shpesh në Portugali.",
+      "category": "Études & Expériences",
+      "notes": "Gheg contracte 'n'' pour la préposition 'në'."
+    },
+    {
+      "id": 106,
+      "french": "Je suis allé en Corée une fois.",
+      "gheg": "Kom qenë një herë n'Kore.",
+      "tosk": "Kam qenë një herë në Kore.",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'Kom ... n'Kore' vs Tosk 'Kam ... në Kore'."
+    },
+    {
+      "id": 107,
+      "french": "Avez-vous fait des études universitaires ?",
+      "gheg": "A shkove në universitet?",
+      "tosk": "A shkove në universitet?",
+      "category": "Études & Expériences",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 108,
+      "french": "Qu'as-tu étudié ?",
+      "gheg": "Çka ki studiu?",
+      "tosk": "Çfarë studiove?",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'Çka ki studiu' (parfait composé) vs Tosk 'Çfarë studiove' (aoriste)."
+    },
+    {
+      "id": 109,
+      "french": "J'ai fréquenté trois universités différentes.",
+      "gheg": "Kom shku në tre universitete të ndryshme.",
+      "tosk": "Shkova në tre universitete të ndryshme.",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'Kom shku' vs Tosk 'Shkova'."
+    },
+    {
+      "id": 110,
+      "french": "Je suis titulaire d'une licence en sciences de la communication.",
+      "gheg": "Unë kom studiu komunikim.",
+      "tosk": "Unë kam një diplomë Bachelor në studime komunikimi.",
+      "category": "Études & Expériences",
+      "notes": "Gheg formule concise 'kom studiu komunikim' vs Tosk explicite 'kam një diplomë Bachelor'."
+    },
+    {
+      "id": 111,
+      "french": "Mais je n'étais pas un très bon élève.",
+      "gheg": "Ama unë nuk jom kon student shumë i mirë.",
+      "tosk": "Por unë nuk isha një student shumë i mirë.",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'Ama unë nuk jom kon' vs Tosk 'Por unë nuk isha'."
+    },
+    {
+      "id": 112,
+      "french": "Avant, je travaillais comme traductrice.",
+      "gheg": "Unë kom punu si përkthyes.",
+      "tosk": "Unë punoja si përkthyes.",
+      "category": "Études & Expériences",
+      "notes": "Gheg 'kom punu' vs Tosk 'punoja' (imparfait)."
+    },
+    {
+      "id": 113,
+      "french": "La traduction est assez ennuyeuse, il faut beaucoup écrire.",
+      "gheg": "Përkthimi është boll i bajatshëm, duhet me shkrujt shumë.",
+      "tosk": "Përkthimi është mjaft i mërzitshëm, duhet të shkruash shumë.",
+      "category": "Études & Expériences",
+      "notes": "'Ennuyeux': Gheg 'bajatshëm' vs Tosk 'mërzitshëm'. Gheg 'me shkrujt' vs Tosk 'të shkruash'."
+    },
+    {
+      "id": 114,
+      "french": "Que faites-vous pendant votre temps libre ?",
+      "gheg": "Çka bon në kohën tonde të lirë?",
+      "tosk": "Çfarë bën në kohën tënde të lirë?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Çka bon ... tonde' vs Tosk 'Çfarë bën ... tënde'."
+    },
+    {
+      "id": 115,
+      "french": "Durant mon temps libre, je lis, j'étudie les langues, je cours et je passe du temps avec mes amis.",
+      "gheg": "Në kohën tem të lirë lexoj, msoj gjuhë t'huja, ngaj edhe dal me shoqni tem.",
+      "tosk": "Në kohën time të lirë lexoj, studioj gjuhë të huaja, vrapoj dhe dal me miqtë e mi.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'tem ... msoj ... ngaj ... shoqni tem' (ngaj = courir) vs Tosk 'time ... studioj ... vrapoj ... miqtë e mi'."
+    },
+    {
+      "id": 116,
+      "french": "J'aime lire.",
+      "gheg": "M'pëlqen me lexu.",
+      "tosk": "Më pëlqen të lexoj.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'me lexu' vs Tosk 'të lexoj'."
+    },
+    {
+      "id": 117,
+      "french": "Je lis beaucoup, surtout de la science-fiction.",
+      "gheg": "Lexoj shumë, kryesisht për sci-fi.",
+      "tosk": "Lexoj shumë, kryesisht fantastiko-shkencore.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg utilise 'sci-fi', Tosk utilise 'fantastiko-shkencore'."
+    },
+    {
+      "id": 118,
+      "french": "Et bien sûr, j'aime apprendre les langues.",
+      "gheg": "Edhe normalisht, m'pëlqen me msu gjuhë t'huja.",
+      "tosk": "Dhe sigurisht, më pëlqen të mësoj gjuhë të huaja.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Edhe normalisht ... me msu gjuhë t'huja' vs Tosk 'Dhe sigurisht ... të mësoj gjuhë të huaja'."
+    },
+    {
+      "id": 119,
+      "french": "Je n'ai pas beaucoup de temps libre, je travaille beaucoup.",
+      "gheg": "Nuk kom shumë kohë të lirë, punoj shumë.",
+      "tosk": "Nuk kam shumë kohë të lirë, punoj shumë.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'kom' vs Tosk 'kam'."
+    },
+    {
+      "id": 120,
+      "french": "Fréquentez-vous les bars et les restaurants ?",
+      "gheg": "A shkoni n'bare edhe restorante?",
+      "tosk": "A shkoni në bare dhe restorante?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'n'bare edhe' vs Tosk 'në bare dhe'."
+    },
+    {
+      "id": 121,
+      "french": "Oui bien sûr.",
+      "gheg": "Po, patjetër.",
+      "tosk": "Po, sigurisht.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'patjetër' vs Tosk 'sigurisht'."
+    },
+    {
+      "id": 122,
+      "french": "Tout le monde fait ça ici !",
+      "gheg": "Krejt e bojnë qata këtu!",
+      "tosk": "Të gjithë e bëjnë këtë këtu!",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "'Tout le monde': Gheg 'Krejt' vs Tosk 'Të gjithë'. Gheg 'e bojnë qata' vs Tosk 'e bëjnë këtë'."
+    },
+    {
+      "id": 123,
+      "french": "Est-ce que tu vas souvent à la salle de sport ?",
+      "gheg": "A shkon shumë n'gym?",
+      "tosk": "A shkon shumë në palestër?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg emprunte 'gym', Tosk 'palestër'."
+    },
+    {
+      "id": 124,
+      "french": "Je m'entraîne presque tous les jours.",
+      "gheg": "Unë ushtroj gati për çdo ditë.",
+      "tosk": "Unë stërvitem pothuajse çdo ditë.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "S'entraîner: Gheg 'ushtroj' vs Tosk 'stërvitem'."
+    },
+    {
+      "id": 125,
+      "french": "Je fais de la musculation et je pratique les arts martiaux.",
+      "gheg": "Unë qoj pesha edhe merrem me arte marciale.",
+      "tosk": "Unë ngre pesha dhe merrem me arte marciale.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Soulever des poids: Gheg 'qoj pesha' vs Tosk 'ngre pesha'."
+    },
+    {
+      "id": 126,
+      "french": "J'habite près de la plage.",
+      "gheg": "Unë jetoj afër pllazhës.",
+      "tosk": "Unë jetoj pranë plazhit.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'afër pllazhës' vs Tosk 'pranë plazhit'."
+    },
+    {
+      "id": 127,
+      "french": "Quand il fait beau, je cours sur la plage.",
+      "gheg": "Kur koha është e mirë, unë ngaj n'pllazh.",
+      "tosk": "Kur moti është i mirë, unë vrapoj në plazh.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'koha ... ngaj n'pllazh' vs Tosk 'moti ... vrapoj në plazh'."
+    },
+    {
+      "id": 128,
+      "french": "Je dois faire beaucoup de sport car je travaille dans un bureau.",
+      "gheg": "M'duhet me bo shumë sporte se punoj n'një zyre.",
+      "tosk": "Më duhet të bëj shumë sporte sepse punoj në një zyrë.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'M'duhet me bo ... se punoj n'një zyre' vs Tosk 'Më duhet të bëj ... sepse punoj në një zyrë'."
+    },
+    {
+      "id": 129,
+      "french": "Quand je travaille, je suis toujours assis devant un ordinateur.",
+      "gheg": "Kur punoj, rri gjithmonë para kompjuterit.",
+      "tosk": "Kur punoj, rri gjithmonë para kompjuterit.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 130,
+      "french": "Ce n'est pas bon pour votre corps et votre esprit.",
+      "gheg": "Qikjo nuk është e shëndetshme për trupin edhe mendjen tonde.",
+      "tosk": "Kjo nuk është e shëndetshme për trupin dhe mendjen tuaj.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Qikjo ... tonde' vs Tosk 'Kjo ... tuaj'."
+    },
+    {
+      "id": 131,
+      "french": "Quels sports pratiques-tu ?",
+      "gheg": "Me çfarë sporte merresh?",
+      "tosk": "Çfarë lloj sportesh merresh?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Me çfarë sporte merresh' vs Tosk 'Çfarë lloj sportesh merresh'."
+    },
+    {
+      "id": 132,
+      "french": "Je joue au football, je vais à la salle de sport et je fais du jogging.",
+      "gheg": "Unë luaj futboll, shkoj n'gym edhe ngaj.",
+      "tosk": "Unë luaj futboll, shkoj në palestër dhe shkoj për vrap.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'shkoj n'gym edhe ngaj' vs Tosk 'shkoj në palestër dhe shkoj për vrap'."
+    },
+    {
+      "id": 133,
+      "french": "Quels plats me conseillez-vous d'essayer ?",
+      "gheg": "Çfarë ushqimi më rekomandon me provu?",
+      "tosk": "Çfarë ushqimi më rekomandoni të provoj?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'rekomandon me provu' vs Tosk 'rekomandoni të provoj'."
+    },
+    {
+      "id": 134,
+      "french": "Il y a beaucoup de types d'aliments différents que vous devriez essayer.",
+      "gheg": "Ka shumë lloje të ndryshme ushqimesh që duhet me provu.",
+      "tosk": "Ka shumë lloje të ndryshme ushqimesh që duhet të provoni.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'duhet me provu' vs Tosk 'duhet të provoni'."
+    },
+    {
+      "id": 135,
+      "french": "La ville est réputée pour sa cuisine, à la fois traditionnelle et moderne.",
+      "gheg": "Qyteti është i famshëm për ushqim tradicional edhe moderne.",
+      "tosk": "Qyteti është i famshëm për kuzhinën e tij, si tradicionale ashtu edhe moderne.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'ushqim tradicional edhe moderne' vs Tosk 'kuzhinën e tij, si tradicionale ashtu edhe moderne'."
+    },
+    {
+      "id": 136,
+      "french": "Aimez-vous la cuisine mexicaine ?",
+      "gheg": "A tpëlqen ushqimi meksikan?",
+      "tosk": "A ju pëlqen ushqimi meksikan?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg familier 'A tpëlqen' vs Tosk formel 'A ju pëlqen'."
+    },
+    {
+      "id": 137,
+      "french": "J'aime beaucoup la cuisine mexicaine, elle est délicieuse.",
+      "gheg": "M'pëlqen shumë ushqimi meksikan, është i shijshëm.",
+      "tosk": "Më pëlqen shumë ushqimi meksikan, është i shijshëm.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Identique avec légère variation orthographique ('M'pëlqen' vs 'Më pëlqen')."
+    },
+    {
+      "id": 138,
+      "french": "La cuisine italienne est également excellente.",
+      "gheg": "Edhe ushqimi italian është shumë i mirë.",
+      "tosk": "Ushqimi italian është gjithashtu vërtet i mirë.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Edhe ... shumë i mirë' vs Tosk 'gjithashtu vërtet i mirë'."
+    },
+    {
+      "id": 139,
+      "french": "Je mange très souvent de la pizza, peut-être même trop.",
+      "gheg": "Unë ha pica shumë shpesh, nashta tepër.",
+      "tosk": "Unë ha pica shumë shpesh, ndoshta tepër.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "'Peut-être': Gheg 'nashta' vs Tosk 'ndoshta'."
+    },
+    {
+      "id": 140,
+      "french": "C'est pour ça que je dois faire beaucoup de sport !",
+      "gheg": "Qikjo është arsyeja pse duhet me ushtru shumë!",
+      "tosk": "Kjo është arsyeja pse duhet të stërvitem shumë!",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Qikjo ... me ushtru' vs Tosk 'Kjo ... të stërvitem'."
+    },
+    {
+      "id": 141,
+      "french": "Aimez-vous les kebabs ?",
+      "gheg": "A tpëlqen qebapat?",
+      "tosk": "A ju pëlqen qebapi?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg utilise le pluriel 'qebapat', Tosk utilise le singulier générique 'qebapi'."
+    },
+    {
+      "id": 142,
+      "french": "J'aime les kebabs, mais en Espagne, ils ne sont pas très bons.",
+      "gheg": "M'pëlqen qebapi, ama në Spanjë nuk është shumë i mirë.",
+      "tosk": "Më pëlqen qebapi, por në Spanjë nuk është shumë i mirë.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'ama' vs Tosk 'por'."
+    },
+    {
+      "id": 143,
+      "french": "En Allemagne, on trouve d'excellents restaurants de kebab, car il y a beaucoup de Turcs qui y vivent.",
+      "gheg": "Në Gjermani ka vende shumë të mira për qebapë, se atje jetojnë shumë turq.",
+      "tosk": "Në Gjermani ka vende shumë të mira për qebapë, sepse atje jetojnë shumë turq.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Conjonction: Gheg 'se' vs Tosk 'sepse'."
+    },
+    {
+      "id": 144,
+      "french": "J'habitais en Allemagne.",
+      "gheg": "Unë kom jetu në Gjermani.",
+      "tosk": "Unë kam jetuar në Gjermani.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'kom jetu' vs Tosk 'kam jetuar'."
+    },
+    {
+      "id": 145,
+      "french": "J'aime l'Allemagne, mais je préfère ma ville natale.",
+      "gheg": "Më pëlqen Gjermania, ama preferoj vendlindjen tem.",
+      "tosk": "Më pëlqen Gjermania, por preferoj vendlindjen time.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'ama ... tem' vs Tosk 'por ... time'."
+    },
+    {
+      "id": 146,
+      "french": "À quoi ressemble votre pays ?",
+      "gheg": "Qysh është vendi jot?",
+      "tosk": "Si është vendi juaj?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'Qysh ... jot' vs Tosk 'Si ... juaj'."
+    },
+    {
+      "id": 147,
+      "french": "La nourriture y est-elle bonne ?",
+      "gheg": "A është ushqimi i mirë atje?",
+      "tosk": "A është ushqimi i mirë atje?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Identique dans les deux dialectes."
+    },
+    {
+      "id": 148,
+      "french": "Qu'en penses-tu?",
+      "gheg": "Çka menon ti?",
+      "tosk": "Çfarë mendoni ju?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg informel 'Çka menon ti' vs Tosk formel 'Çfarë mendoni ju'."
+    },
+    {
+      "id": 149,
+      "french": "Pensez-vous toujours que l'apprentissage des langues est difficile ?",
+      "gheg": "A menon hala se mësimi i gjuhëve është i vështirë?",
+      "tosk": "A mendoni ende se mësimi i gjuhëve është i vështirë?",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "'Toujours / encore': Gheg 'hala' vs Tosk 'ende'."
+    },
+    {
+      "id": 150,
+      "french": "Si vous apprenez mille bonnes phrases, vous parlerez bien la langue.",
+      "gheg": "Nëse i mëson një mijë fjal t'mira, munesh me fol gjuhën mirë.",
+      "tosk": "Nëse mëson një mijë fjali të mira, mund ta flasësh gjuhën mirë.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'fjal t'mira, munesh me fol' vs Tosk 'fjali të mira, mund ta flasësh'."
+    },
+    {
+      "id": 151,
+      "french": "Vous pouvez le faire en trois mois ou moins.",
+      "gheg": "Munesh me bo qata mrena tre muje ose ma pak.",
+      "tosk": "Mund ta bësh këtë brenda tre muajsh ose më pak.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'mrena tre muje ose ma pak' vs Tosk 'brenda tre muajsh ose më pak'."
+    },
+    {
+      "id": 152,
+      "french": "Avec une méthode efficace et un peu de discipline, vous pouvez apprendre n'importe quelle langue rapidement.",
+      "gheg": "Me një sistem efektiv edhe pak diciplinë, munesh me msu çdo gjuhë shpejt.",
+      "tosk": "Me një sistem efektiv dhe pak disiplinë, mund të mësoni çdo gjuhë shpejt.",
+      "category": "Loisirs, Sport & Art de Vivre",
+      "notes": "Gheg 'edhe pak diciplinë, munesh me msu' vs Tosk 'dhe pak disiplinë, mund të mësoni'."
+    }
+  ]
+}
