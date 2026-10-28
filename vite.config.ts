@@ -13,7 +13,7 @@ export default defineConfig({
         name: 'Mëso Shqip - Albanian Dialect Learner',
         short_name: 'Mëso Shqip',
         description: 'Apprenez l\'albanais parlé (Gheg & Tosk) avec le système de répétition espacée',
-        theme_color: '#E41E26',
+        theme_color: '#0F172A',
         background_color: '#0F172A',
         display: 'standalone',
         orientation: 'portrait',

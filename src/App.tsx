@@ -138,7 +138,7 @@ export function App() {
       />
 
       {/* Main Content Area */}
-      <main className="flex-1 pb-16">
+      <main className="flex-1 pb-28 sm:pb-16 overflow-y-auto">
         {activeTab === 'study' && (
           <FlashcardStudy
             queue={currentQueue}
